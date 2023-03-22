@@ -9,7 +9,7 @@ ____
 * You can separately launch a claim, send or exchange.
 
 # Warning!
-### **It is advisable to have at least $15 in ETH in the Arbitrum network.**
+### **It is advisable to have at least $30 in ETH in the Arbitrum network.**
 
 ## Configuration
 > In the settings.ini file, you can set your own rpc and the desired slippage for exchange.
